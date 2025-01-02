@@ -1,6 +1,6 @@
 # Atikur Rahman
 
-# MY STATS
+# STATS
 
 
 [![](https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
