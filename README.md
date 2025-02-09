@@ -1,5 +1,7 @@
 # Atikur Rahman
 
+![Banner img](assets/banner.png)
+
 # STATS
 
 
