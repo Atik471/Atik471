@@ -2,6 +2,19 @@
 
 ![Banner img](assets/banner.png)
 
+## About Me  
+👋 Hi, I'm Atikur Rahman!  
+🎓 Final-year CSE undergrad | 💻 Web Developer | 🚀 Problem Solver  
+
+I'm passionate about learning and building web applications. I enjoy solving challenging problems, exploring new technologies, and continuously improving my skills.  
+
+🔹 Full-stack web development  
+🔹 Competitive programming & problem-solving  
+🔹 Interested in bioinformatics & machine learning  
+
+Let's connect and collaborate! 🚀  
+
+
 # STATS
 
 
