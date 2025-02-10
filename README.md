@@ -14,6 +14,14 @@ I'm passionate about learning and building web applications. I enjoy solving cha
 
 Let's connect and collaborate! 🚀  
 
+## 🚀 Current Activities  
+
+- 🔍 Exploring **Next.js**, **Django REST** framework and advanced React patterns  
+- 🌍 Working as a **Freelance Web Developer**
+- 🏗️ Building a **Bangla Sign Language(BSL) interpreter app** (Capstone Project)  
+- 🧬 Learning about **Machine Learning** and its applications  
+<!-- - 🏆 Solving **DSA** problems and improving problem-solving skills  -->
+
 
 <h2 align="center">STATS</h2>
 
