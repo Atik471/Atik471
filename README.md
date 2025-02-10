@@ -1,8 +1,8 @@
-# Atikur Rahman
+<h1 align="center">Atikur Rahman</h1>
 
 ![Banner img](assets/banner.png)
 
-## About Me  
+<h2 align="center">About Me</h2>
 👋 Hi, I'm Atikur Rahman!  
 🎓 Final-year CSE undergrad | 💻 Web Developer | 🚀 Problem Solver  
 
@@ -15,9 +15,22 @@ I'm passionate about learning and building web applications. I enjoy solving cha
 Let's connect and collaborate! 🚀  
 
 
-# STATS
+<h2 align="center">STATS</h2>
 
-
-[![](https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/0-profile-details.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/1-repos-per-language.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/2-most-commit-language.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/3-stats.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Atik471/Atik471/master/profile-summary-card-output/nightowl/4-productive-time.svg" />
+  </a>
+</p>
