@@ -2,6 +2,12 @@
 
 ![Banner img](assets/banner.png)
 
+<div align="center">
+  <a href="https://techforpalestine.org/learn-more">
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Stand With Palestine" />
+  </a>
+</div>
+
 <h2 align="center">About Me</h2>
 👋 Hi, I'm Atikur Rahman!  <br>
 🎓 Final-year CSE undergrad | 💻 Web Developer | 🚀 Problem Solver  <br><br>
