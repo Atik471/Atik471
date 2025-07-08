@@ -78,7 +78,7 @@ Let's connect and collaborate! 🚀
   <a href="https://www.linkedin.com/in/md-atikur-rahman-shafin/" style="color:transparent;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"/></a>
   <a href="https://www.facebook.com/atikur.rahman.424121/" style="color:transparent;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo"/></a>
   <a href="https://wa.me/8801608107163" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo"/></a>
-  <a href="mailto:atiksafinmd1@gmail.com" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"/></a>
+  <a href="mailto:atikurr.contact@gmail.com" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"/></a>
 </div>
 
 <br>
